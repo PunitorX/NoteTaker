@@ -1,0 +1,11 @@
+C:\Users\Jones\Documents\Portfolio\NoteTaker\bin\Debug\NoteTaker.exe.config
+C:\Users\Jones\Documents\Portfolio\NoteTaker\bin\Debug\NoteTaker.exe
+C:\Users\Jones\Documents\Portfolio\NoteTaker\bin\Debug\NoteTaker.pdb
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.csproj.AssemblyReference.cache
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.Form1.resources
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.Properties.Resources.resources
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.csproj.GenerateResource.cache
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.csproj.CoreCompileInputs.cache
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.exe
+C:\Users\Jones\Documents\Portfolio\NoteTaker\obj\Debug\NoteTaker.pdb
